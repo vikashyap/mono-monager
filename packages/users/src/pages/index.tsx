@@ -14,6 +14,9 @@ const Index = () => {
             <div className="textStyle">
                 Welcome to Users
             </div>
+            <div className="textStyle">
+                Welcome to Users
+            </div>
             <Button onClick={handleClick} buttonType="next">
                 Next page
             </Button>
