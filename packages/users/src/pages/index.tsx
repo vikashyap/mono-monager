@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from 'shared';
 import Router from 'next/router';
-import AdminPage from 'admin/src/pages';
+
 
 const Index = () => {
 
@@ -10,7 +10,7 @@ const Index = () => {
     }
     return (
         <div className="titleWrapper">
-            <AdminPage />
+
             <div className="textStyle">
                 Welcome to Users
             </div>
