@@ -21,7 +21,7 @@ export const Button: React.FC<ButtonProps> = ({
 }) => {
     return (
         <>
-            <div className="name buttonWrapper">
+            <div className="name buttonWrapper newname">
                 <button
                     className={`${className} ${"button"}`}
                     id={id}
