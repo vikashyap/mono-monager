@@ -1,6 +1,6 @@
 {
   "name": "admin",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -74,7 +74,7 @@
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-promise": "^0.6.0",
-    "shared": "^2.0.0",
+    "shared": "^2.0.1",
     "yarn": "^1.22.4"
   },
   "devDependencies": {
