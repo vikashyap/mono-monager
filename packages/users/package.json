@@ -1,0 +1,23 @@
+{
+  "name": "users",
+  "version": "1.0.1-alpha.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --inspect server.js",
+    "build": "NODE_ENV=production next build",
+    "run:prod": "NODE_ENV=production node server.js",
+    "test": "jest",
+    "tslint": "tslint -p . -c tslint.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "admin": "^1.0.1-alpha.0",
+    "load-json-file": "^7.0.1",
+    "lodash": "^4.17.21",
+    "react-hook-form": "^7.18.1",
+    "shared": "^1.0.1-alpha.0"
+  }
+}
