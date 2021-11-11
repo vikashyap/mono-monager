@@ -12,7 +12,7 @@ const Index = () => {
         <div className="titleWrapper">
 
             <div className="textStyle">
-                Welcome to Users Users
+                Welcome to Users
             </div>
 
             <Button onClick={handleClick} buttonType="next">
