@@ -10,7 +10,7 @@ const Index = () => {
     return (
         <div className="titleWrapper">
             <div className="textStyle">
-                Welcome to Admin Snubes-monoRepo
+                Welcome to Admin
             </div>
 
             <Button onClick={handleClick} buttonType="next">
