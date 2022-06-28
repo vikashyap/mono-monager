@@ -1,6 +1,6 @@
 {
   "name": "admin",
-  "version": "6.1.0",
+  "version": "6.1.1",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "shared": "^6.1.0"
+    "shared": "^6.1.1"
   }
 }
